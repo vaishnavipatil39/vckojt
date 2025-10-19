@@ -3,7 +3,7 @@ const HomePage  = () => {
     return (
         <div className="page-container" style={{ overflow: "auto" }}>
           <div className="hero-section">
-            <img  src="public/Images/college-banner.png"
+            <img  src="public\Images\college-banner.png"
              className="hero-banner-image"
             />
            <div className="hero-overlay-text">
