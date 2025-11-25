@@ -17,7 +17,7 @@ function App() {
     setShowPopup(false);
   };
   return (
-    <>
+    <>  
     <div>
         {/* Your main application content */}
         <DeveloperInfoPopup
