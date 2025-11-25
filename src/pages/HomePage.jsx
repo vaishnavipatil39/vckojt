@@ -3,7 +3,7 @@ const HomePage  = () => {
     return (
         <div className="page-container" style={{ overflow: "auto" }}>
           <div className="hero-section">
-            <img  src="public\Images\college-banner.png"
+            <img  src="/Images/college-banner.png"
              className="hero-banner-image"
             />
            <div className="hero-overlay-text">
@@ -27,8 +27,8 @@ const HomePage  = () => {
           </ul>
           <h2>Campus Life & Facilities</h2>
                 <div className="image-gallery">
-                 <img src="public/Images/students-studying.jpeg" />
-                 <img src="public/Images/campus-life.jpg" />
+                 <img src="/Images/students-studying.jpeg" />
+                 <img src="/Images/campus-life.jpg" />
                 </div>
            <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
            <div className="call-to-action">
